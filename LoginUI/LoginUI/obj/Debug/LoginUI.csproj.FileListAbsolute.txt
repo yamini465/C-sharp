@@ -1,0 +1,9 @@
+E:\VL\C#ASPNET\LoginUI\LoginUI\bin\Debug\LoginUI.exe.config
+E:\VL\C#ASPNET\LoginUI\LoginUI\bin\Debug\LoginUI.exe
+E:\VL\C#ASPNET\LoginUI\LoginUI\bin\Debug\LoginUI.pdb
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.csprojAssemblyReference.cache
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.Form1.resources
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.Properties.Resources.resources
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.GenerateResource.cache
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.exe
+E:\VL\C#ASPNET\LoginUI\LoginUI\obj\Debug\LoginUI.pdb

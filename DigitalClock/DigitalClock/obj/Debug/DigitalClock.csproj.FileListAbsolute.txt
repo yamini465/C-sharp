@@ -1,0 +1,9 @@
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+E:\VL\C#ASPNET\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
